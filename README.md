@@ -24,13 +24,13 @@ This is a simple keylogger built using Python and the `pynput` library. It captu
 
 1. Clone the repository or download the source code.
 
-   ```
-   git clone https://github.com/yourusername/python-keylogger.git
+```
+git clone https://github.com/yourusername/python-keylogger.git
 ```
 
 2. Install the required library:
 
- ```
+```
 pip install pynput
 ```
 
