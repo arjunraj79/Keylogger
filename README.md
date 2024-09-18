@@ -24,19 +24,19 @@ This is a simple keylogger built using Python and the `pynput` library. It captu
 
 1. Clone the repository or download the source code.
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/python-keylogger.git
 ```
 
 2. Install the required library:
 
- ```bash
+ ```
 pip install pynput
 ```
 
 3. Run the keylogger script:
 
-```bash
+```
 python keylogger.py
 ```
 
